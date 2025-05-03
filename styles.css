@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(248, 125, 24);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 10%;
+}
